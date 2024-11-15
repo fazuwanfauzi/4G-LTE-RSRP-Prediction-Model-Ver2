@@ -8,4 +8,6 @@ Explanation for file naming structure:
 
 - U stand for urban.
 
-- The file name already matched with tower unique CID number.
+- The second structure represent name of the drive test area. e.g.: P09 = Presint 9, Putrajaya. HWU = Heriot-Watt University, Putrajaya.
+
+- The third and later was the tower unique ID number.
