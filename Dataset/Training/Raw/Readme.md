@@ -1,9 +1,11 @@
 Drive test raw data using Nemo Handy for construction of ML training datasets.
 
-OA stand for Open Area.
+Explanation for file naming structure:
 
-SU stand for Suburban.
+- OA stand for Open Area.
 
-U stand for urban.
+- SU stand for Suburban.
 
-The file name already matched with tower unique CID number.
+- U stand for urban.
+
+- The file name already matched with tower unique CID number.
