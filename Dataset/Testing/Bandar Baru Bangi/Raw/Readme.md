@@ -4,7 +4,7 @@ Explanation for file naming structure:
 
 - OAT stand for Open Area Test.
 
-- Bangi is name of drive test area.
+- Bangi is name of drive test area, Bandar Baru Bangi, Selangor.
 
 - L7 is Band 7.
 
